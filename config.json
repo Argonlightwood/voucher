@@ -1,0 +1,17 @@
+{
+  "prefixes": ["!","."],
+  "botToken": "",
+  "developers": ["", ""],
+  "mongooseConnectURL": "",
+  "botStatus": "Argon ❤️ 2015",
+  "name_age": true,
+  "embedColor": "RANDOM",
+  "defaultTag": "",
+  "tag": "",
+  "staffRoles": [],
+  "invalids": [],
+  "unregisterRoles": [],
+  "boyRoles": [],
+  "girlRoles": [],
+  "tagRoles": []
+}
